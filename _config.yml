@@ -1,11 +1,11 @@
 # Setup
-title: Yang Yurun | Software Engineer & Researcher
+title: Yang Yurun 
 description: Software Engineering graduate from Shandong University - Research interests in computer vision, event-based sensing, and network security
 url: https://liuliucu1.github.io
 avatar: /my_avatar.jpg
-paginate: 5
+paginate: 10
 permalink: pretty
-cover_image: /background.jpg
+cover_image: /bg.jpg
 
 # Gems
 plugins:
