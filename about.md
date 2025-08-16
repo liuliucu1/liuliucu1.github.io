@@ -10,7 +10,7 @@ I am a Software Engineering graduate from Shandong University with a strong pass
 ### Education
 
 - **Bachelor of Engineering in Software Engineering** (2020.9 - 2024.6)  
-  Shandong University | GPA: 92.24/100 (Top 3%)  
+  Shandong University   
   Graduation with highest honors
 
 ### Research Interests
@@ -26,7 +26,7 @@ I am a Software Engineering graduate from Shandong University with a strong pass
 **Mobile Development**: Java, Flutter  
 **Machine Learning**: Deep learning pipelines, neural network design  
 **Network Programming**: Programmable switch development (Tofino2)  
-**Languages**: Mandarin Chinese (Native), English (IELTS 6.5)
+**Languages**: Mandarin Chinese (Native), English (Fluent)
 
 ### Current Research Projects
 
