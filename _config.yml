@@ -2,10 +2,10 @@
 title: Yang Yurun | Software Engineer & Researcher
 description: Software Engineering graduate from Shandong University - Research interests in computer vision, event-based sensing, and network security
 url: https://liuliucu1.github.io
-avatar: /avatar.jpeg
+avatar: /my_avatar.jpg
 paginate: 5
 permalink: pretty
-cover_image: /bg.jpeg
+cover_image: /background.jpg
 
 # Gems
 plugins:
