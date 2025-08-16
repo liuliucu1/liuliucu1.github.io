@@ -1,7 +1,7 @@
 # Setup
-title: Not Pure Poole
-description: A simple, beautiful, and powerful Jekyll theme for blogs
-url: https://vszhub.github.io
+title: Yang Yurun | Software Engineer & Researcher
+description: Software Engineering graduate from Shandong University - Research interests in computer vision, event-based sensing, and network security
+url: https://liuliucu1.github.io
 avatar: /avatar.jpeg
 paginate: 5
 permalink: pretty
@@ -29,14 +29,14 @@ exclude:
 
 # Optimize Jekyl SEO Tag
 twitter:
-  username: vszhub
+  username: your_twitter_handle
   card: summary
 logo: logo.png
 social:
-  name: Songzi Vong
+  name: Yang Yurun
   links:
-    - https://twitter.com/vszhub
-    - https://github.com/vszhub
+    - https://github.com/liuliucu1
+    - mailto:willowsnowy@outlook.com
 google_site_verification: xxxxx
 lang: en
 
@@ -54,6 +54,6 @@ sass:
 
 # Specify the author for blog posts
 author:
-  name: Songzi Vong
-  url: https://github.com/vszhub/
-  email: vszhub@gmail.com
+  name: Yang Yurun
+  url: https://github.com/liuliucu1/
+  email: willowsnowy@outlook.com
